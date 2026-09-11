@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
