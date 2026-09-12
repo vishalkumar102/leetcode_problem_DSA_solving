@@ -4,20 +4,17 @@ public:
         ListNode* temp = head;
         stack<ListNode*>st;
         while(temp){
-            if(st.size()==0 || st.top()->val >= temp->val){
-                st.push(temp);
-                temp = temp->next;
-            }
-            else{
+            if(st.size() > 0 && st.top()->val < temp->val){
                 while(st.size() > 0 && st.top()->val < temp->val) st.pop();
                 if(st.size()==0) head = temp;
                 else{
                     ListNode* t = st.top();
                     t->next = temp;
-                    st.push(temp);
-                    temp = temp->next;
+                    
                 }
             }
+            st.push(temp);
+            temp = temp->next;
         }
         return head;
     }
