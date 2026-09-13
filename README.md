@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2487-remove-nodes-from-linked-list) |
+## Array
+|  |
+| ------- |
+| [1313-decompress-run-length-encoded-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1313-decompress-run-length-encoded-list) |
 <!---LeetCode Topics End-->
