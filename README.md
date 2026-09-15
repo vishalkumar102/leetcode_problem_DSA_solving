@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1313-decompress-run-length-encoded-list) |
 ## Math
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
