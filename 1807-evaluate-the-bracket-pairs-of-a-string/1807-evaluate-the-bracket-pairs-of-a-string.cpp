@@ -6,22 +6,19 @@ public:
         for(int i=0; i<knowledge.size(); i++){
             mp[knowledge[i][0]] = knowledge[i][1];
         }
-        stack<char>st;
+     
         for(int i=0; i<s.size(); i++){
             if(s[i]=='('){
+                string key = "";
                 i++;
                 while(s[i]!=')'){
-                    st.push(s[i]);
+                    key += s[i];
                     i++;
                 }
-                string str = "";
-                while(st.size() > 0){
-                    str = st.top()+str;
-                    st.pop();
-                }
-                if(mp.find(str)!=mp.end()){
-                    string key = mp[str];
-                    result += key;
+                
+                if(mp.find(key)!=mp.end()){
+                    string val = mp[key];
+                    result += val;
                 }
                 else result += '?';
             }
