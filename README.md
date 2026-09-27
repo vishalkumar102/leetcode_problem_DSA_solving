@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1313-decompress-run-length-encoded-list) |
@@ -96,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
