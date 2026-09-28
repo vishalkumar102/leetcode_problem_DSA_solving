@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0806-number-of-lines-to-write-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
