@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
