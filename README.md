@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
+| [0556-next-greater-element-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0020-valid-parentheses) |
+| [0556-next-greater-element-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0556-next-greater-element-iii) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0556-next-greater-element-iii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
