@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0556-next-greater-element-iii) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
