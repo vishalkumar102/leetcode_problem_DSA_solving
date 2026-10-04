@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
