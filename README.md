@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1688-count-of-matches-in-tournament) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
