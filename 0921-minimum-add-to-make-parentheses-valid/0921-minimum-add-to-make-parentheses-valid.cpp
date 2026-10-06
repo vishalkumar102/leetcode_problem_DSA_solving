@@ -6,9 +6,7 @@ public:
         for(int i=0; i<s.size(); i++){
             if(s[i]=='(') left++;
             else if(s[i]==')' && left==0) result++;
-            else if(s[i]==')' && left!=0){
-                left--;
-            }
+            else left--;
         }
         return left + result;
     }
