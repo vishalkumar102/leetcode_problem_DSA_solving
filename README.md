@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
