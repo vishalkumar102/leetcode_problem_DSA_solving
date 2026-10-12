@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [3693-climbing-stairs-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
