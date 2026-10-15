@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
