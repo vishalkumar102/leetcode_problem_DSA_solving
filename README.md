@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
