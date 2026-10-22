@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0045-jump-game-ii) |
 | [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0045-jump-game-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3693-climbing-stairs-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0045-jump-game-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
