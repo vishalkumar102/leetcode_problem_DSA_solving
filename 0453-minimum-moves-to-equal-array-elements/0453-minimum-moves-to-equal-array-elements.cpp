@@ -8,6 +8,7 @@ public:
         for(int i=n-2; i>0; i--){
             nums[i] = nums[i] + ans;
             ans += nums[i] - nums[i+1];
+            if(nums[i]==nums[i+1]) return ans;
         }
         return ans;
     }
