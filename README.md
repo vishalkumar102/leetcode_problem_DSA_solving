@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0045-jump-game-ii) |
 | [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
