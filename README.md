@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1688-count-of-matches-in-tournament) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
