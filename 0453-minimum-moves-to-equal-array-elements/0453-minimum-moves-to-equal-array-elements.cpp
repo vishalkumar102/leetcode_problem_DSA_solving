@@ -1,14 +1,13 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        if(nums.size()==1) return 0;
-        int n = nums.size();
-        int ans = nums[n-1] - nums[0];
-        for(int i=n-2; i>0; i--){
-            nums[i] = nums[i] + ans;
-            ans += nums[i] - nums[i+1];
-            if(nums[i]==nums[i+1]) return ans;
+        int ans = 0;
+        int minele = INT_MAX;
+        for(int i=0; i<nums.size(); i++){
+            if(minele > nums[i]) minele = nums[i];
+        }
+        for(int i=0; i<nums.size(); i++){
+            ans += nums[i]-minele;
         }
         return ans;
     }
