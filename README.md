@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
