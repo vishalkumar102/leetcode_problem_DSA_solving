@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0622-design-circular-queue) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0806-number-of-lines-to-write-string) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1019-next-greater-node-in-linked-list) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1313-decompress-run-length-encoded-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1352-product-of-the-last-k-numbers) |
