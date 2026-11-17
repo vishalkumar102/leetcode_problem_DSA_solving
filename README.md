@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2405-optimal-partition-of-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2405-optimal-partition-of-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2405-optimal-partition-of-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2405-optimal-partition-of-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Data Stream
