@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2405-optimal-partition-of-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3760-maximum-substrings-with-distinct-start) |
