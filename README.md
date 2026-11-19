@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2405-optimal-partition-of-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2405-optimal-partition-of-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Data Stream
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
