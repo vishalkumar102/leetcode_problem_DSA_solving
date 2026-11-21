@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0120-triangle) |
 | [0746-min-cost-climbing-stairs](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3693-climbing-stairs-ii](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3693-climbing-stairs-ii) |
 ## Backtracking
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/3364-minimum-positive-sum-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
