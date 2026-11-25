@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1544-make-the-string-great](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/vishalkumar102/leetcode_problem_DSA_solving/tree/master/2124-check-if-all-as-appears-before-all-bs) |
